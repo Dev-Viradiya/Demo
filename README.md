@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repository.
 <br>
-Author - Dev Viradiya
+Author - Dev Viradiya (STGP)
